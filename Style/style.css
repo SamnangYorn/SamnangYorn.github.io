@@ -1,0 +1,21 @@
+html {
+    margin-left: 100px;
+}
+
+.tittle {
+    color: darkturquoise;
+}
+
+.li_class {
+    margin-top: 20px;
+}
+
+.footer {
+    color: gray;
+    font-size: small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.tittle_subpage {
+    font-size: 18px;
+}
